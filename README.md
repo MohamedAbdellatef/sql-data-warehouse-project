@@ -1,12 +1,12 @@
 # Data Warehouse and Analytics Project
-This repository showcases a complete data warehousing and analytics pipeline, demonstrating skills in data modeling, ETL processes, and reporting.
+This repository demonstrates a complete data warehousing and analytics pipeline built entirely in SQL Server, showcasing skills in data modeling, ETL processes, and reporting.
 It includes:
-- Data ingestion from multiple sources
+- Data ingestion from multiple sources into SQL Server
 - ETL (Extract, Transform, Load) processes for cleaning and structuring data
-- Data warehouse design using best practices
-- Analytical queries for business insights
+- Data warehouse design following industry best practices
+- Analytical queries to deliver actionable business insights
 
-Built to simulate real-world data engineering scenarios, this project serves as a portfolio example of end-to-end data pipeline development.
+This project simulates real-world data engineering workflows and highlights end-to-end pipeline development for analytics and decision-making.
 
 ---
 ## 🏗️ Data Architecture
