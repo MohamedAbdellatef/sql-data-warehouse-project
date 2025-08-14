@@ -29,8 +29,8 @@ This project involves:
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 ---
 
-## 🛠️ Important Links & Tools:
-- **[Datasets](datasets/):** Access to the project dataset (csv files).
+## 🛠️ DataSet:
+- **[Datasets](datasets/) :** Access to the project dataset (csv files).
 ---
 
 ## 🚀 Project Requirements
@@ -48,15 +48,6 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
-
-### BI: Analytics & Reporting (Data Analysis)
-
-#### Objective
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
-
 
 ## 📂 Repository Structure
 ```
